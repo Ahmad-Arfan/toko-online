@@ -1,0 +1,9 @@
+body {
+  min-heigh: 2000px;
+}
+.carousel-item {
+  height: 34rem;
+}
+#Product {
+  background-color: #e2edff;
+}
